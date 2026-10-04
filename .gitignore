@@ -13,3 +13,4 @@ gate_report.md
 .envdata/raw/
 data/processed/
 models/*.cbm
+data/raw/bank-additional-full.csv
