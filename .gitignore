@@ -14,3 +14,6 @@ gate_report.md
 data/processed/
 models/*.cbm
 data/raw/bank-additional-full.csv
+data/processed/train.csv
+data/processed/eval.csv
+data/processed/future.csv
